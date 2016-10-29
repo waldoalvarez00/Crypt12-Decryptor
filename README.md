@@ -46,3 +46,8 @@ The authenticated decryption operation
 Using GCM to decrypt and verify the authenticity of a packet
 
 <img src="https://raw.githubusercontent.com/mgp25/Crypt12-Decryptor/master/assets/dec.jpeg" width="400" height="200"/>
+
+
+__
+
+Reference: http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/gcm/gcm-spec.pdf
